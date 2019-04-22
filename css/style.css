@@ -501,9 +501,9 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 #errormessage {
-    color: red;
+    color: green;
     display:none;
-    border:1px solid red;
+    border:1px solid green;
     text-align:center;
     padding:15px;
     font-weight:600;
@@ -511,7 +511,8 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 #sendmessage.show, #errormessage.show, .show {
-	display:block;
+    display:block;
+    
 }
 
 .company-social {
