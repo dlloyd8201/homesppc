@@ -310,7 +310,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background: url(../img/muted-blue.jpg) no-repeat top center;
+	background: black;
     background-size: cover;
     height: auto;
 }
