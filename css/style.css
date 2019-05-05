@@ -310,7 +310,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background: black;
+	background-image: url(../img/bluehouse.jpeg);
     background-size: cover;
     height: auto;
 }
