@@ -83,6 +83,7 @@ a:focus {
 	color: #fff;
   font-size: 20px;
   line-height: 40px;
+  text-transform: inherit;
 }
 
 .navbar-brand:focus {
